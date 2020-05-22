@@ -1,11 +1,8 @@
 {
-    "folders": [
-        {
-            "path": "./"
-        }
-    ],
-    "settings": {
-        "files.eol": "\n"
-    },
-    
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
 }
